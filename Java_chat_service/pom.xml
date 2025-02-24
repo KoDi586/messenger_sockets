@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>messenger_JavaPart</artifactId>
+	<artifactId>Java_chat_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>messenger_JavaPart</name>
 	<description>Demo project for Spring Boot</description>

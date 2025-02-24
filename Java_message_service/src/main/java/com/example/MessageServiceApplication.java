@@ -1,13 +1,11 @@
-package com.example.messenger_JavaPart;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MessengerJavaPartApplication {
-
+public class MessageServiceApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(MessengerJavaPartApplication.class, args);
+		SpringApplication.run(MessageServiceApplication.class, args);
 	}
-
 }
